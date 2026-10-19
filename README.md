@@ -1,4 +1,4 @@
-# Valeria Gomez
+# About me
 computer science student @ mcgill university<br>frontend developper, ux/ui designer
 
 # Tech Stack
